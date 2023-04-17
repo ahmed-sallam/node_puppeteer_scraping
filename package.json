@@ -1,0 +1,19 @@
+{
+  "name": "node_puppeteer_scraping",
+  "version": "1.0.0",
+  "description": "this is simple web scraping using Node.js, puppeteer, and xlsx",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scrape"
+  ],
+  "author": "Ahmed Sallam",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.9.0",
+    "xlsx": "^0.18.5"
+  }
+}
